@@ -1,2 +1,2 @@
-#C debbuging 
-my alx c debbing project
+#C debbuging
+learning to fix errors
